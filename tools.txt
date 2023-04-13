@@ -1,3 +1,4 @@
 git is popular version control sytem 
 maven is build tool for java 
 jenkins is popular devops automation tool
+ansible is easy to learn
