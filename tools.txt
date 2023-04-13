@@ -1,4 +1,4 @@
 git is popular version control sytem 
 maven is build tool for java 
 jenkins is popular devops automation tool
-docker is popular container run time
+ansible is easy to learn
